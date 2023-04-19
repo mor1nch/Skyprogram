@@ -1,6 +1,7 @@
 Skyprogram
 =
 Skyprogram - соцсеть, функционал которой был взят с Instagram, для тренировки навыков Python + flask, HTML, Jinja
+Ссылка на сайт проекта: http://d3niss.online/
 ***
 Описание проекта:
 =
